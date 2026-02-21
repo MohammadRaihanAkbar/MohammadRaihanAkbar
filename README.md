@@ -1,6 +1,6 @@
 ![Profile Banner](./github-header-banner.png)
 
-## Skills
+## Tech Stack💻
 
 <br clear="both">
 
@@ -46,7 +46,7 @@
 
 ###
 
-## Social Media
+## Social Media 💬
 
 <br clear="both">
 
